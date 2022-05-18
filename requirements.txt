@@ -1,0 +1,6 @@
+tensorflow-gpu==1.14.0
+opencv-python==3.3.0.10
+opencv-contrib-python==3.3.0.10
+pandas==1.0.5
+numpy==1.18.5
+scipy==1.2.3
